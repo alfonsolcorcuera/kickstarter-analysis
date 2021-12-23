@@ -16,7 +16,7 @@ Kickstarting with Excel
 
     To analyze the outcomes based on launch date we created a Pivot Table in Microsoft Excel in which we are able to visualize the number of campaigns per outcome category and month in which it was launched. Results shown below include all available years, from 2004 to 2011, for the theater category only. 
     
-https://github.com/alfonsolcorcuera/kickstarter-analysis/blob/0566ee621afc8379903bb47b55e898a837d6eb9c/Theather_Outcomes_vs_Launch.png
+Theather_Outcomes_vs_Launch.png 
       
     Finally, I did not encounter any challenge to this anaysis but I think is crucial to properly select all fields of the pivot table so that results are shown as required. 
 
